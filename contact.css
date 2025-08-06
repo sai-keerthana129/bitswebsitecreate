@@ -1,0 +1,42 @@
+body{
+    background-image: url(pen2.webp);
+    background-repeat: no-repeat;
+    background-size: 1700px 700px;
+}
+form{
+    border: solid 1px white hidden;
+    width: 500px;
+    padding-left: 20px;
+    margin-left: 30px;
+}
+h1{
+    color: azure;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    color: rgb(246, 95, 95);
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    height: 26px;
+    width: 400px;
+    border-radius: 10px;
+}
+textarea{
+    width: 400px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    font-size: 22px;
+    color: beige;
+    font-weight: bold;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: aqua;
+}
